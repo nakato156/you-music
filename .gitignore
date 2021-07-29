@@ -1,0 +1,5 @@
+dist/
+build/
+serviceAccount.json
+app/config.js
+node_modules/
